@@ -1,0 +1,13 @@
+var x : int = 5 
+print x 
+const var a : bool ; 
+var c : bool ; 
+var 1'ab12#"/ : alpha = " cool " 
+print 1'ab12#"/ 
+var z : bool = ff 
+print z 
+var b : alpha ; 
+b = ' yes ' ; 
+print c 
+print b 
+print a

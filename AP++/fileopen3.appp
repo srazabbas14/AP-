@@ -1,0 +1,6 @@
+var x : int = 50 
+var y : int = 5 
+print y 
+print x 
+x = x + y ; 
+print y

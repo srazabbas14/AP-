@@ -1,0 +1,34 @@
+print ' Hello World ! ' 
+var r : int = 20 ; 
+r = r + 5 ; 
+print r ; 
+var x : bool = tt ; 
+var y : bool = ff 
+print x 
+print y 
+var a : bool ; 
+a = x ^ x ; 
+y = x ^ y ; 
+print a 
+print y 
+x = x or x ; 
+print x 
+var z : int = 5 ; 
+var w : int = 10 ; 
+var t : int = 0 ; 
+t = t + t ; 
+print t 
+print z 
+z = - z ; 
+print z 
+var b : bool = tt 
+print b 
+b = not b ; 
+print b 
+if t < w then 
+print ' Yessss !!!! ' 
+else print z  
+print w 
+while t < w do t = t + 1 ; print t 
+x = not x ;  
+print x
